@@ -1,0 +1,10 @@
+*.log
+.DS_Store
+node_modules
+.cache
+*.tgz
+dist
+coverage
+*.ignore
+.pnpm-store/
+storybook-static
