@@ -1,5 +1,7 @@
 # Storybook v6 and v7 Redirects
 
+https://github.com/storybookjs/storybook/issues/24292
+
 ```bash
 # Install deps and package manager.
 pnpm i
